@@ -1,0 +1,4 @@
+{
+  "aliasThreshold": 1.2,
+  "allowedDirs": ["src/app", "src/server", "src/domain"]
+}

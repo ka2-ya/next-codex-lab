@@ -1,0 +1,8 @@
+queries:
+  - q: "toggle"
+    relevant:
+      - "src/server/repos/todoRepo.ts#TodoRepo.toggle"
+      - "src/app/actions.ts#toggleTodo"
+  - q: "invert boolean"
+    relevant:
+      - "src/server/repos/todoRepo.ts#TodoRepo.toggle"
